@@ -1,0 +1,118 @@
+#div1{
+		padding:0px 30px 40px 1305px;
+		background-color:white; 
+		margin-top: 0px;
+		width: 30px;
+		min-height: 10px;
+}
+#menu{
+		list-style: none;
+		float: right;
+		margin: 0px;
+		min-width: 1265px; 
+		padding:10px 70px 0px 0px;
+	}
+#menu1{
+		float: left;
+		padding: 10px;
+		}
+a {
+	 	text-decoration: none;
+	 	color: black;
+	 }
+#menu2{
+		float: left;
+		width: 30%;
+		margin:100px 0px 20px 15px;	
+}
+#menu3{
+		list-style: none;
+		margin-left:auto;
+		padding-left: 0px; 
+		}
+#menu4{
+		margin: 10px 10px 10px 0px;
+} 
+#form{
+	float: right;
+	margin:100px 0px 20px 0px;	
+	width: 680px;
+}
+#body{
+	background-color:#f5f5f5;
+	margin: 0px;
+	font-family:sans-serif;
+	width: 1365px;
+}
+#input{
+	background-color:#f5f5f5;
+	padding: 14px 14px;
+	border-color: white;
+	border-style: solid;
+	margin: 10px;
+	width: 285px; 
+}
+#input1{
+	background-color: #f5f5f5;
+	padding: 14px 14px;
+	border-color: white;
+	border-style: solid;
+	margin: 10px; 
+	width: 625px;
+}
+#input2{
+	background-color: #f5f5f5;
+	margin: 10px;
+	padding: 14px 14px;
+	width: 625px;
+	border-style: solid;
+	border-color: white;
+	height: 190px;
+}
+#btn{
+	margin-left:10px; 
+	background-color:#10c9c3; 
+	border: 0px; 
+	color: white;
+	padding: 10px;
+}
+#about1{
+text-align: center;
+background-image:url("./images/loc.jpg"); 
+padding: 60px;
+color: white;
+}
+#about2{
+text-align: center;
+padding: 75px 0px 100px 0px;
+background-color: white;
+}
+#btn1{
+	margin-left:10px; 
+	background-color: #10c9c3; 
+	border: 0px; 
+	color: white;
+	padding: 10px 20px 10px 20px;	
+}
+#img1{
+	width: 1180px;
+	height: 370px;
+	padding:80px 80px 0px 80px; 
+}	
+#img2{
+	float: right;
+	margin:100px 0px 20px 0px;	
+	width: 680px;
+}
+#li2{
+	float: left;
+	width: 33.33%;
+
+}
+#tbl{
+	border-spacing: 0px;
+	padding: 0px;
+	width: 343px;
+	height: 295px;
+	background-color:;
+}	
